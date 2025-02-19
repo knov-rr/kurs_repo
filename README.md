@@ -1,0 +1,1 @@
+Test repo for kurs i Git fra Riksrevisjonen, 19.02.25
